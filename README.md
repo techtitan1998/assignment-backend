@@ -9,12 +9,18 @@ Follow these steps to set up the project:
 Clone this repository to your local machine.
 Open a terminal or command prompt and navigate to the project folder.
 Local Development
+
+
+
 Step 1: Install Node Modules
 To install the project dependencies, run the following command:
 
 bash
 
 npm install
+
+
+
 Step 2: Start the Project
 To run the TypeScript project locally, use the following command:
 
@@ -22,6 +28,9 @@ To run the TypeScript project locally, use the following command:
 
 npm run dev
 This command will use the ts-node package to execute TypeScript directly without the need to compile it manually.
+
+
+
 
 Step 3: Testing
 If you have tests written for your project, you can run them using the following command:

@@ -24,7 +24,7 @@ npm install
 Step 2: Start the Project
 To run the TypeScript project locally, use the following command:
 
-# start project in development
+start project in development
 
 npm run dev
 This command will use the ts-node package to execute TypeScript directly without the need to compile it manually.
